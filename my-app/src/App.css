@@ -1,0 +1,12 @@
+.App{
+  overflow-y: hidden;
+}
+.changeColorButton{
+   text-align: center;
+   padding:22.6em;
+   font-size: 1.3em;
+   width: 100%;
+}
+.changeColorButton:hover{
+  cursor: pointer;
+}
